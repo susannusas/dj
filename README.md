@@ -21,7 +21,7 @@ https://meeting.tencent.com/s/5v3V70j5e182
 +8675536550000 (中国大陆)
 +85230018898 (中国香港)
 
-sckedule for 2020/4/23 class
+schedule for 2020/4/23 class
 
 -info about course content
 
@@ -32,3 +32,10 @@ sckedule for 2020/4/23 class
 -introduction about yourself and group work
 
 -in class exercise 
+
+contact:
+tsusanliu@jnu.edu.cn
+qliu20@albany.edu
+
+mainpage: 
+https://susannusas.github.io/
