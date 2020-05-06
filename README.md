@@ -62,8 +62,6 @@ schedule for 2020/4/30 class
 
 -statistic concept in news reporting
 
--standarization example
-
 -comparison example
 
 -python evironment
