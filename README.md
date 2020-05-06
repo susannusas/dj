@@ -2,6 +2,38 @@
 This is a data journalism course 202003 Jinan university
 
 Announcement：
+同学们，请5月7日 周四晚上8点50准时上课哦。
+邀请您参加腾讯会议: 数据新闻实务_数据分析_3_5.7
+Meeting Time: 2020/05/07 20:50-22:20
+
+Click the link to join the meeting: 
+https://meeting.tencent.com/s/5RWyxho701a6
+
+Meeting ID: 731 665 283
+
+Speed dial on mobile
++8675536550000,,,,731665283# (Mainland China)
+
+Dial based on your location
++8675536550000 (Mainland China)
+
+schedule for 2020/5/7 class
+
+-excercise last week
+
+-updated cases in news
+
+-data analysis methods in news reporting
+
+-standarization example
+
+-comparison example
+
+-python practice
+
+-tebleau evironment
+
+-------------------------------------------
 
 同学们，请4月30日 周四晚上8点50准时上课哦。
 邀请您参加腾讯会议
