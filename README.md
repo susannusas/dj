@@ -19,19 +19,17 @@ Dial based on your location
 
 schedule for 2020/5/7 class
 
--excercise last week
+-exercise last week
 
 -updated cases in news
 
 -data analysis methods in news reporting
 
--standarization example
-
 -comparison example
 
 -python practice
 
--tebleau evironment
+-tableau environment
 
 -------------------------------------------
 
@@ -64,7 +62,7 @@ schedule for 2020/4/30 class
 
 -comparison example
 
--python evironment
+-python environment
 
 ----------------------------------
 
