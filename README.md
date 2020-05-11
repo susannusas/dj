@@ -3,7 +3,7 @@ This is a data journalism course 202003 Jinan university
 
 Announcement：
 同学们，请5月14日 周四晚上8点50准时上课哦。
-邀请您参加腾讯会议: 数据新闻实务_数据分析_4_5.14
+邀请您参加zoom会议: 数据新闻实务_数据分析_4_5.14
 Meeting Time: 2020/05/014 20:50-22:20
 
 Click the link to join the meeting: 
