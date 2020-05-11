@@ -2,20 +2,53 @@
 This is a data journalism course 202003 Jinan university
 
 Announcement：
-同学们，请5月7日 周四晚上8点50准时上课哦。
-邀请您参加腾讯会议: 数据新闻实务_数据分析_3_5.7
-Meeting Time: 2020/05/07 20:50-22:20
+同学们，请5月14日 周四晚上8点50准时上课哦。
+邀请您参加腾讯会议: 数据新闻实务_数据分析_4_5.14
+Meeting Time: 2020/05/014 20:50-22:20
 
 Click the link to join the meeting: 
-https://meeting.tencent.com/s/5RWyxho701a6
 
-Meeting ID: 731 665 283
+Qian Liu 邀请您参加预先安排的 Zoom 会议。
 
-Speed dial on mobile
-+8675536550000,,,,731665283# (Mainland China)
+主题：Qian Liu个人会议室
 
-Dial based on your location
-+8675536550000 (Mainland China)
+加入 Zoom 会议
+https://albany.zoom.us/j/7575249225?pwd=N29vSWxhbDBFQlI3Y1RlODVBbW12Zz09
+
+会议 ID：757 524 9225
+密码：534182
+
+通过 SIP 加入
+7575249225@zoomcrc.com
+
+通过 H.323 加入
+162.255.37.11 (US West)
+162.255.36.11 (US East)
+115.114.131.7 (India Mumbai)
+115.114.115.7 (India Hyderabad)
+213.19.144.110 (EMEA)
+103.122.166.55 (Australia)
+209.9.211.110 (Hong Kong
+ China)
+64.211.144.160 (Brazil)
+69.174.57.160 (Canada)
+207.226.132.110 (Japan)
+密码：534182
+会议 ID：757 524 9225
+
+----------------------------------
+----------------------------------
+schedule for 2020/5/14 class
+
+-excercise last week
+
+-tools overview
+
+-avoiding common mistakes
+
+-tableau example
+
+-prvious projects
 
 ----------------------------------
 ----------------------------------
