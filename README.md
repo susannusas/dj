@@ -2,9 +2,9 @@
 This is a data journalism course 202003 Jinan university
 
 Announcement：
-同学们，请5月14日 周四晚上8点50准时上课哦。
-邀请您参加zoom会议: 数据新闻实务_数据分析_4_5.14
-Meeting Time: 2020/05/014 20:50-22:20
+同学们，请5月21日 周四晚上8点50准时上课哦。
+邀请您参加zoom会议: 数据新闻实务_数据分析_4_5.21
+Meeting Time: 2020/05/21 20:50-22:20
 
 Click the link to join the meeting: 
 
@@ -36,6 +36,45 @@ https://albany.zoom.us/j/7575249225?pwd=N29vSWxhbDBFQlI3Y1RlODVBbW12Zz09
 密码：534182
 会议 ID：757 524 9225
 
+----------------------------------
+----------------------------------
+schedule for 2020/6/4 class
+
+-vast challenge and group word discussion
+
+-info graph
+
+-visualization evaluation standard
+
+-visualization example
+----------------------------------
+----------------------------------
+schedule for 2020/5/28 class
+
+-vast challenge and group word discussion
+
+-data visualization element
+
+-choice of graph
+
+-common mistakes
+
+-tell a story with your graph 
+
+-visualization example
+----------------------------------
+----------------------------------
+schedule for 2020/5/21 class
+
+-vast challenge and group word discussion
+
+-data visualization basics
+
+-visualization：figure 
+
+-visualization tools introduction 
+
+-visualization example
 ----------------------------------
 ----------------------------------
 schedule for 2020/5/14 class
