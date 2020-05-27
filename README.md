@@ -2,9 +2,9 @@
 This is a data journalism course 202003 Jinan university
 
 Announcement：
-同学们，请5月21日 周四晚上8点50准时上课哦。
+同学们，请5月28日 周四晚上8点50准时上课哦。
 邀请您参加zoom会议: 数据新闻实务_数据分析_4_5.21
-Meeting Time: 2020/05/21 20:50-22:20
+Meeting Time: 2020/05/28 20:50-22:20
 
 Click the link to join the meeting: 
 
@@ -51,7 +51,7 @@ schedule for 2020/6/4 class
 ----------------------------------
 schedule for 2020/5/28 class
 
--vast challenge and group word discussion
+-vast challenge and group discussion
 
 -data visualization element
 
