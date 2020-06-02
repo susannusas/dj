@@ -2,45 +2,36 @@
 This is a data journalism course 202003 Jinan university
 
 Announcement：
-同学们，请5月28日 周四晚上8点50准时上课哦。
-邀请您参加zoom会议: 数据新闻实务_数据分析_7_5.28
-Meeting Time: 2020/05/28 20:50-22:20
+同学们，请6月4日 周四晚上8点50准时上课哦。
+邀请您参加zoom会议: 数据新闻_数据可视化_7_6.04
+Meeting Time: 2020/06/04 20:50-22:20
 
-Click the link to join the meeting: 
+刘倩 邀请您参加腾讯会议
+会议主题：数据新闻_数据可视化_7_6.04
+会议时间：2020/6/4 08:00-22:30
 
-Qian Liu 邀请您参加预先安排的 Zoom 会议。
+点击链接直接加入会议：
+https://meeting.tencent.com/s/A9da1ixjbyc5
 
-主题：Qian Liu个人会议室
+会议 ID：557 687 395
 
-加入 Zoom 会议
-https://albany.zoom.us/j/7575249225?pwd=N29vSWxhbDBFQlI3Y1RlODVBbW12Zz09
+手机一键拨号入会
++8675536550000,,557687395# (中国大陆)
++85230018898,,,2,557687395# (中国香港)
 
-会议 ID：757 524 9225
-密码：534182
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
 
-通过 SIP 加入
-7575249225@zoomcrc.com
 
-通过 H.323 加入
-162.255.37.11 (US West)
-162.255.36.11 (US East)
-115.114.131.7 (India Mumbai)
-115.114.115.7 (India Hyderabad)
-213.19.144.110 (EMEA)
-103.122.166.55 (Australia)
-209.9.211.110 (Hong Kong
- China)
-64.211.144.160 (Brazil)
-69.174.57.160 (Canada)
-207.226.132.110 (Japan)
-密码：534182
-会议 ID：757 524 9225
 
 ----------------------------------
 ----------------------------------
-schedule for 2020/6/4 class
+schedule for 2020/6/4 2020/6/11 class
 
--vast challenge and group word discussion
+-vast challenge and group discussion about visualization plan
+
+-data visualization news cases
 
 -info graph
 
