@@ -6,9 +6,18 @@ Announcement：
 邀请您参加腾讯会议: 数据新闻_数据可视化_8_6.11
 Meeting Time: 2020/06/11 20:50-22:20
 
-刘倩 邀请您参加腾讯会议
-会议主题：数据新闻_数据可视化_8_6.11
-会议时间：2020/6/11 08:00-22:30
+点击链接入会，或添加至会议列表：
+https://voovmeeting.com/s/cKo6sXdOh8b4
+
+会议 ID：987 461 337
+
+使用PSTN接入:
++852 30018898  (中国香港)
++852 30183076  (中国香港)
+
+查找本地号码
+https://voovmeeting.com/mobile/redirect?page=pstn&region=df&lang=zh-CN
+
 
 
 
